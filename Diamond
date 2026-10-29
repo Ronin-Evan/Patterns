@@ -1,0 +1,5 @@
+class space:
+    ...
+for j in range(1, space + 1):
+    print(end=" ")       # one blank space per loop pass
+space = space - 1          # shrinks for the upper half

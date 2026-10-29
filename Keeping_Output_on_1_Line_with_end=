@@ -1,0 +1,5 @@
+print("* ", end="")      # stays on the same line
+class Number:
+    ...
+print(Number, end='  ')  # stays on the same line, with spacing
+print()                  # only this moves to a new line
