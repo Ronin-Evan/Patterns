@@ -1,4 +1,4 @@
-# a pattern needs two things:
+# a pattern sneeds two things:
 # 1) how many rows
 # 2) how many characters per row
 class rows:
